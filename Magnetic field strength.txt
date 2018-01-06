@@ -1,0 +1,13 @@
+Br is 4000 gauss for ferrite magnet: https://www.supermagnete.de/eng/data_table.php
+
+Calculate magnetic field strength from: https://www.supermagnete.de/eng/faq/How-do-you-calculate-the-magnetic-flux-density
+
+Assuming magnet is 0.5 mm cube, z = 1mm
+
+B = 71.6 gauss- outside of max fsd (8.1 gauss)
+
+If we keep the pole face 3mm from the package we get 7.4 gauss field strength at the magnetometer
+
+Assuming 0.5mm from top of package (package is 1mm thick). Sensor has min fsd of += 1.3G
+
+With 400 gauss we want magnet directly on top of sensor package
